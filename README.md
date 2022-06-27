@@ -1,6 +1,8 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cdujardin4000)
 - 👋 Hi, I’m @cédric
 
+![status](https://badge.stateful.com/cdujardin4000/status.svg)
+![status](https://badge.stateful.com/cdujardin4000/dnd.svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdujardin4000&show_icons=true&theme=radical&hide=issues,contribs)
 
