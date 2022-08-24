@@ -1,10 +1,4 @@
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cdujardin4000)
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@6c81df11-acd5-4e79-8982-148849a4bbb7/4e592abe-54b7-474a-96d6-2381b35b18ea.png" /></a>
-
-
-
 
 - 👋 Hi, I’m @cédric
 
@@ -18,6 +12,12 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cdujardin4000)
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@6c81df11-acd5-4e79-8982-148849a4bbb7/4e592abe-54b7-474a-96d6-2381b35b18ea.png" /></a>
+
 
 <!---
 cdujardin4000/cdujardin4000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
