@@ -8,15 +8,21 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdujardin4000&show_icons=true&theme=radical&hide=issues,contribs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdujardin4000&layout=compact&langs_count=8&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+- 👀 I’m interested in music, synth's, gaming, new techs,...
+
+- 🌱 I’m currently learning NodeJs, symfony, Angular
+
+- 💞️ I’m looking to collaborate on : let's talk about it
+
+- 📫 How to reach me: <cedric@cedricdujardin.com>
+
+My portfolio: <portfolio.cedricdujardin.com>
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cdujardin4000)
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@6c81df11-acd5-4e79-8982-148849a4bbb7/4e592abe-54b7-474a-96d6-2381b35b18ea.png" /></a>
+
+
 
 
 <!---
