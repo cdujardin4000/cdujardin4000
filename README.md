@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: <cedric@cedricdujardin.com>
 
-My portfolio: <portfolio.cedricdujardin.com>
+My portfolio: <https://portfolio.cedricdujardin.com>
 
 
 
