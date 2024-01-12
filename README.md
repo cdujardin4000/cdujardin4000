@@ -11,7 +11,7 @@
 
 - 👀 I’m interested in music, synth's, gaming, new techs,...
 
-- 🌱 I’m currently learning NodeJs, symfony, Angular
+- 🌱 I’m currently learning NodeJs, symfony, Laravel, SOLID
 
 - 💞️ I’m looking to collaborate on : let's talk about it
 
